@@ -1,0 +1,6 @@
+D:\Java\Workspace\AlgTask\AlgTask\AlgTask\bin\Debug\AlgTask.exe.config
+D:\Java\Workspace\AlgTask\AlgTask\AlgTask\bin\Debug\AlgTask.exe
+D:\Java\Workspace\AlgTask\AlgTask\AlgTask\bin\Debug\AlgTask.pdb
+D:\Java\Workspace\AlgTask\AlgTask\AlgTask\obj\Debug\AlgTask.csproj.CoreCompileInputs.cache
+D:\Java\Workspace\AlgTask\AlgTask\AlgTask\obj\Debug\AlgTask.exe
+D:\Java\Workspace\AlgTask\AlgTask\AlgTask\obj\Debug\AlgTask.pdb
